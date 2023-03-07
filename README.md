@@ -15,7 +15,7 @@ Command "<mark style="color:yellow;">`whoami`</mark>" shows you who is currently
 {% endhint %}
 
 {% hint style="info" %}
-If we were to use the "<mark style="color:yellow;">`cd`</mark>`"` command, it would take us to the home folder of the user who is currently logged in.
+If we were to use the "<mark style="color:yellow;">`cd`</mark>" command, it would take us to the home folder of the user who is currently logged in.
 {% endhint %}
 
 Let's get to work!
